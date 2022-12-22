@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Eduardo Henrique, Software Developer. 👋</h1>
 </div>
-- 🌱 Studying: Software Developer and Web Developer. 
 
 <div align="center">
   <a href="https://github.com/henriqubjj">
